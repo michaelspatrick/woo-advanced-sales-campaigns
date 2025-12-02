@@ -1,0 +1,43 @@
+.wcas-countdown-wrapper {
+    margin-top: 1em;
+    padding: 0.75em 1em;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    text-align: center;
+    background: #fafafa;
+}
+
+.wcas-countdown-circles {
+    display: flex;
+    justify-content: center;
+    gap: 0.75em;
+    margin-top: 0.5em;
+}
+
+.wcas-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8em;
+}
+
+.wcas-circle .wcas-num {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.wcas-countdown-note {
+    margin-top: 0.5em;
+    font-size: 0.8em;
+    color: #555;
+}
+
+.wcas-saving {
+    font-size: 0.85em;
+    color: #2e7d32;
+}
