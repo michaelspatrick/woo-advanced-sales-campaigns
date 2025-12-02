@@ -159,5 +159,5 @@ You can fork and modify it freely for your own sites; it was written with a bias
 
 ## License
 
-MIT (or your preferred license – update this section for public distribution).
+MIT
 
